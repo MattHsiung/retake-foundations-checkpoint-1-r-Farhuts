@@ -32,3 +32,4 @@ Dictionary.prototype.getWordsWithFirstLetter = function(letter){
   }
   return obj;
 }
+// 👍 

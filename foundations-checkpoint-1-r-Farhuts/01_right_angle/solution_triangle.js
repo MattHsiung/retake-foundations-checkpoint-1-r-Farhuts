@@ -30,7 +30,7 @@ function rightAngleBottomLeft(num){
   }
   return str;
 }
-
+// 👍 
 
 function rightAngleTopRight(num){
 
@@ -39,3 +39,5 @@ function rightAngleTopRight(num){
 function rightAngleBottomRight(num){
 
 }
+// If you run out of time try to leave some comments describing your thoughts!
+// If you're on the right track I can still give you some partial credit!
